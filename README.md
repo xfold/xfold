@@ -5,4 +5,4 @@ applying ML to tackle real‑world challenges. My passion lies in developing mac
 that are both fair and safe, as I strive to address negative biases and discriminatory tendencies in large language models. With
 over 9 years of experience in the field of Artificial Intelligence, NLP and Machine Learning, I possess a strong proficiency in Python.
 
-Please take a look at my repositories and specially to the (AI jungle)[https://xfold.github.io/the-ai-jungle/], A wild and exciting collection of other projects (mostly) in Python related to AI and ML.
+Please take a look at my repositories and specially to the [AI jungle](https://xfold.github.io/the-ai-jungle/), A wild and exciting collection of other projects (mostly) in Python related to AI and ML.
