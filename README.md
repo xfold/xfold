@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola! 👋
 
 I am a passionate Data Scientist and a Visiting Research Associate living in London with expertise in AI, dedicated to
 applying ML to tackle real‑world challenges. My passion lies in developing machine learning systems and recommender systems
