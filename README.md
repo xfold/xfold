@@ -1,7 +1,7 @@
 ### Hola! 👋
 
-I am a passionate Data Scientist and a Visiting Research Associate living in London with expertise in AI, dedicated to
-applying ML to tackle real‑world challenges. My passion lies in developing machine learning systems and recommender systems
+I am an Applied AI scientist @ Thomson Reuters Labs and a Visiting Research Associate at Kings College London living with expertise in AI, dedicated to
+applying ML to tackle real‑world challenges. My passion lies in developing machine learning systems
 that are both fair and safe, as I strive to address negative biases and discriminatory tendencies in large language models. With
 over 9 years of experience in the field of Artificial Intelligence, NLP and Machine Learning, I possess a strong proficiency in Python.
 
